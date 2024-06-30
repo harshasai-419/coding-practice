@@ -1,0 +1,12 @@
+2024-06-16 06:11:18.573 [info] 
+
+
+
+
+2024-06-16 06:11:18.592 [info] Extension host agent started.
+2024-06-16 06:11:23.228 [info] [127.0.0.1][241326f5][ManagementConnection] New connection established.
+2024-06-16 06:11:23.236 [info] [127.0.0.1][bcf90a2e][ExtensionHostConnection] New connection established.
+2024-06-16 06:11:26.668 [info] [127.0.0.1][bcf90a2e][ExtensionHostConnection] <1093> Launched Extension Host Process.
+2024-06-16 06:12:25.582 [info] [127.0.0.1][241326f5][ManagementConnection] The client has reconnected.
+2024-06-16 06:12:25.661 [info] [127.0.0.1][241326f5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-06-16 06:12:25.892 [info] [127.0.0.1][bcf90a2e][ExtensionHostConnection] The client has reconnected.
